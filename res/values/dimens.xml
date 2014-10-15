@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- 字体大小 -->
+    <dimen name="textsize_28">28sp</dimen>
+    <dimen name="textsize_24">24sp</dimen>
+    <dimen name="textsize_22">22sp</dimen>
+    <dimen name="textsize_20">20sp</dimen>
+    <dimen name="textsize_18">18sp</dimen>
+    <dimen name="textsize_16">16sp</dimen>
+    <dimen name="textsize_14">14sp</dimen>
+    <dimen name="textsize_12">12sp</dimen>
+    <dimen name="textsize_10">10dip</dimen>
+    <dimen name="textsize_8">8dip</dimen>
+    <!-- 边距 -->
+    <dimen name="item_top">10dip</dimen>
+    <dimen name="item_bottom">10dip</dimen>
+    <dimen name="item_left">12dip</dimen>
+    <dimen name="item_right">12dip</dimen>
+
+</resources>

@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/one_week_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_menu_bg_sel"
+        android:padding="15dip"
+        android:text="近一周"
+        android:textColor="@color/black"
+        android:textSize="@dimen/textsize_16" />
+
+    <View style="@style/horizonal_line_style" />
+
+    <Button
+        android:id="@+id/three_week_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_menu_bg_sel"
+        android:padding="15dip"
+        android:text="近三周"
+        android:textColor="@color/black"
+        android:textSize="@dimen/textsize_16" />
+
+    <View style="@style/horizonal_line_style" />
+
+    <Button
+        android:id="@+id/one_month_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_menu_bg_sel"
+        android:padding="15dip"
+        android:text="近一月"
+        android:textColor="@color/black"
+        android:textSize="@dimen/textsize_16" />
+
+    <View style="@style/horizonal_line_style" />
+
+    <Button
+        android:id="@+id/three_month_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_menu_bg_sel"
+        android:padding="15dip"
+        android:text="近三月"
+        android:textColor="@color/black"
+        android:textSize="@dimen/textsize_16" />
+
+    <View style="@style/horizonal_line_style" />
+
+</LinearLayout>

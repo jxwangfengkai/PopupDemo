@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/prompt_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/prompt_prize_bg"
+        android:text="@string/prompt_tv"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_12"
+        android:paddingTop="8dip"
+        android:paddingLeft="8dip"
+        android:paddingRight="8dip"
+        android:paddingBottom="16dip" />
+
+</LinearLayout>

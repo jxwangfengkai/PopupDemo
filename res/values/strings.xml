@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PopupDemo</string>
+	<!-- ********************弹出层******************** -->
+	<string name="popup_btn">弹出层</string>
+	<string name="left_popup_btn">确定</string>
+	<string name="right_popup_btn">退出</string>
+	<string name="popup_title">我的微博</string>
+	<string name="prompt_tv">中奖万元以上奖金由专人\n通知,万元以下直接入到\n个人账户。</string>
+</resources>
